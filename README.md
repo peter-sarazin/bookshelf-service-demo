@@ -1,7 +1,7 @@
 # bookshelf-service-demo
 Demo of a RESTful service implemented with Spring Boot, JPA, and H2 embedded database.
 
-Then run this application as a Spring Boot App.
+Once you build it with maven you can then run this application as a Spring Boot App.
 
 There are at least a couple ways to run an application as a Spring Boot App:
 
