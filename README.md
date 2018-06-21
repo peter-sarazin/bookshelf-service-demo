@@ -12,3 +12,11 @@ Example:
 ```sh
 java -jar bookshelf-service-0.0.1-SNAPSHOT.jar
 ```
+
+The default port that this application runs on is 8081.
+
+You can change the default port number in /src/main/resources/application.properties and you can also override the port number on the commandline at startup.  Example:
+
+```sh
+java -jar bookshelf-service-0.0.1-SNAPSHOT.jar --server.port=8083
+```
